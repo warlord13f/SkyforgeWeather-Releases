@@ -1,0 +1,14 @@
+{
+  "channel": "alpha",
+  "version": "1.15a",
+  "displayVersion": "v1.15a",
+  "publishedUtc": "YYYY-MM-DDTHH:mm:ssZ",
+  "installerUrl": "https://github.com/GITHUB_OWNER/SkyforgeWeather-Releases/releases/download/v1.15a/Skyforge.Weather.Setup.v1.15a.exe",
+  "sha256": "REPLACE_WITH_INSTALLER_SHA256",
+  "sizeBytes": 0,
+  "signatureRequired": false,
+  "silentArguments": "",
+  "releaseNotesUrl": "https://github.com/GITHUB_OWNER/SkyforgeWeather-Releases/releases/tag/v1.15a",
+  "minimumUpdaterVersion": "1.0"
+}
+
