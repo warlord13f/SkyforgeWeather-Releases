@@ -1,13 +1,13 @@
 {
   "channel": "alpha",
-  "version": "1.16a",
-  "displayVersion": "v1.16a",
-  "publishedUtc": "2026-11-01T18:00:00Z",
-  "installerUrl": "https://github.com/warlord13f/SkyforgeWeather-Releases/releases/download/v1.16a/Skyforge.Weather.Setup.v1.16a.exe",
-  "sha256": "1C46F7CF6C283B109556AABD088191AF1C46793D04E95379C756CB0715589E1E",
-  "sizeBytes": 81574971,
+  "version": "1.18a",
+  "displayVersion": "v1.18a",
+  "publishedUtc": "2026-11-03T13:16:33Z",
+  "installerUrl": "https://github.com/warlord13f/SkyforgeWeather-Releases/releases/download/v1.18a/Skyforge.Weather.Setup.v1.18a.exe",
+  "sha256": "F3596A68757D41AAA1ECFF8C24DCAC92C28EB5628C3F499CE75EBB8B7C25445C",
+  "sizeBytes": 81574293,
   "signatureRequired": false,
   "silentArguments": "",
-  "releaseNotesUrl": "https://github.com/warlord13f/SkyforgeWeather-Releases/releases/tag/v1.16a",
+  "releaseNotesUrl": "https://github.com/warlord13f/SkyforgeWeather-Releases/releases/tag/v1.18a",
   "minimumUpdaterVersion": "1.0"
 }
